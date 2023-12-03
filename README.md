@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm [Mohammed ABDI]
+# Hi there! 👋 I'm Mohammed ABDI
 
-I'm a passionate Laravel developer based in [Algeria]. I love building web applications and exploring new technologies.
+I'm a passionate Laravel developer based in Algeria. I love building web applications and exploring new technologies.
 
 ## 🔭 What I'm currently working on
 
